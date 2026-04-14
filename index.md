@@ -1,6 +1,6 @@
 # Charles Lara's Portfolio
 
-![Cal State Fullerton Logo](images/csuf-wordmark.png)
+![school logo](csuf-logo-rgb.webp)
 This is my home page! My name is Charles Lara and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineering.
 
 ## Computer Science Projects
@@ -16,3 +16,5 @@ My GitHub page is [@charleslaracsu](https://github.com/charleslaracsu).
 * Lab 10
 
     Lab 10 part-1 was one of my favorite programs so far. It incorporates 2D vectors and loops to create a basic program that pulls data off a table and does some math to give a percentage based on the county vs state population. This was one of the programs I felt more confident in my skills. 
+
+[def]: images/csuf-wordmark.png
