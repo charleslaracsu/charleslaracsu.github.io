@@ -1,6 +1,6 @@
 # Charles Lara's Portfolio
 
-![school logo](csuf-logo-rgb.webp)
+![school logo](images/csuf-logo-rgb.webp)
 This is my home page! My name is Charles Lara and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineering.
 
 ## Computer Science Projects
